@@ -6,8 +6,7 @@ Welcome to the AutoML Streamlit App! This project is designed to simplify the pr
 
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Documentation](#documentation)
-- [Support](#support)
+- [Dependencies](#dependencies)
 
 ## Getting Started
 
@@ -18,10 +17,14 @@ To get started with the AutoML Streamlit App, follow these steps:
 ```bash
 git clone https://github.com/HazimZaghlol/automl-streamlit-app.git
 ```
-2.Usage
-The AutoML Streamlit App provides an intuitive interface for:
+ 2. Usage
+  The AutoML Streamlit App provides an intuitive interface for:
+  
+  Uploading and analyzing your dataset.
+  Conducting automated exploratory data analysis (EDA).
+  Training machine learning models with just a few clicks.
+  Evaluating and comparing the performance of different models.
 
-Uploading and analyzing your dataset.
-Conducting automated exploratory data analysis (EDA).
-Training machine learning models with just a few clicks.
-Evaluating and comparing the performance of different models.
+ 3. Install the required dependencies
+    streamlit-pandas-profiling / streamlit / pycaret
+    
