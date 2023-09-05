@@ -28,4 +28,9 @@ git clone https://github.com/HazimZaghlol/automl-streamlit-app.git
  3. Install the required dependencies
     
     streamlit-pandas-profiling / streamlit / pycaret
+
+ 4. Run the app
+
+    streamlit run file-name.py
+
     
