@@ -17,7 +17,7 @@ To get started with the AutoML Streamlit App, follow these steps:
 
 ```bash
 git clone https://github.com/HazimZaghlol/automl-streamlit-app.git
-
+```
 2.Usage
 The AutoML Streamlit App provides an intuitive interface for:
 
