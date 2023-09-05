@@ -26,5 +26,6 @@ git clone https://github.com/HazimZaghlol/automl-streamlit-app.git
   Evaluating and comparing the performance of different models.
 
  3. Install the required dependencies
+    
     streamlit-pandas-profiling / streamlit / pycaret
     
